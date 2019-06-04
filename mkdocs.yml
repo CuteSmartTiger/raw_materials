@@ -1,0 +1,20 @@
+site_name: Liuhu  Docs
+nav:
+- 首页:
+    - 'index.md'
+- 设计模式(Design Patterns based on python ):
+    - '责任链设计模式': 'python-design-patterns/Chain.md'
+    - '设计模式': 'python-design-patterns/Chain.md'
+
+- Golang基础与高级:
+    - 'defer': 'base-advance-golang/defer.md'
+
+    - 'Styling your 中文': 'user-guide/styling-your-docs.md'
+- Python基础与高级:
+    - 'License': 'about/license.md'
+    - 'Release Notes': 'about/release-notes.md'
+
+- 关于:
+    - 'License': 'about/license.md'
+    - 'Release Notes': 'about/release-notes.md'
+theme: readthedocs
